@@ -1,0 +1,10 @@
+﻿Metric,Before Cleaning,After Cleaning
+Total Rows,630,612
+Missing Customer_Email,50,48
+Missing Province,12,12
+Exact Duplicates,18,0
+Order_Date Needing Special Parsing/Imputation,7,7
+Mismatched Transaction_Amount (>1 Baht),51,50
+Transaction_Amount Outliers (Non-Promo),0,19
+Late Loads (>24 Hours Delay),0,38
+Invalid Order_Status,5,5
