@@ -1,0 +1,7 @@
+order_id,customer_id,product_id,order_date,qty,unit_price,discount_pct,status,parsed_date
+O0007,C046,P001,2026-08-04,-2,996.79,0,paid,2026-08-04
+O0021,C014,P005,2026-08-04,2,1299.0,150,cancelled,2026-08-04
+O0034,C041,P004,not-a-date,2,390.89,0,paid,
+O0049,C999,P002,2026-08-04,4,757.5,0,cancelled,2026-08-04
+O0076,C047,P999,03-Aug-2026,2,503.9,0,cancelled,2026-08-03
+O0091,C019,P015,01/08/2026,2,-100.0,5,completed,2026-01-08
